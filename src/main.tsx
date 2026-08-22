@@ -173,7 +173,7 @@ function Sponsors() {
 function Footer() {
   return <footer className="site-footer" id="contact"><div className="footer-nebula" aria-hidden="true" />
     <p>07 / CONTACT</p><h2>BUILD.<br />TEST.<br /><em>FLY.</em></h2>
-    <div className="footer-grid"><div className="footer-team"><Logo className="footer-logo" /></div><div><span>teamcygnusdsce01@gmail.com</span><a href="https://www.instagram.com/cygnusrocketry" target="_blank" rel="noreferrer">INSTAGRAM</a><a href="https://www.linkedin.com/company/cygnus-technical/posts/?feedView=all" target="_blank" rel="noreferrer">LINKEDIN</a></div><span>COLLEGE / TO BE CONFIRMED<br />LOCATION / TO BE CONFIRMED<br /><br />© 2026 TEAM CYGNUS</span></div>
+    <div className="footer-grid"><div className="footer-team"><Logo className="footer-logo" /></div><div><span>teamcygnusdsce01@gmail.com</span><a href="https://www.instagram.com/cygnusrocketry" target="_blank" rel="noreferrer">INSTAGRAM</a><a href="https://www.linkedin.com/company/cygnus-technical/posts/?feedView=all" target="_blank" rel="noreferrer">LINKEDIN</a></div><span>DAYANANDA SAGAR COLLEGE OF ENGINEERING<br />BENGALURU<br /><br />© 2026 TEAM CYGNUS</span></div>
   </footer>;
 }
 
