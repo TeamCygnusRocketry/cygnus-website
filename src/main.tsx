@@ -158,7 +158,7 @@ function Gallery() {
 const sponsors = [
   ['ADVANCED TEAM LEASE CO.', asset('sponsors/advanced-team-lease.png')],
   ['ABDULRAHMAN GHAZAY ALSUBAIE CONT. EST.', asset('sponsors/abdulrahman-ghazay.png')],
-  ['VIGYAN BHARATI', asset('sponsors/vigyan-bharati.png')],
+  ['ಪ್ರಜ್ಞಾವಂತ ಭಾರತ', asset('sponsors/vigyan-bharati.png')],
   ['SOLIDWORKS', asset('sponsors/solidworks.png')],
   ['ANSYS', asset('sponsors/ansys.png')],
 ] as const;
